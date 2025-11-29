@@ -1,0 +1,5 @@
+Acc_No,Trans_Type,Amount
+0001,Deposit,450000.0
+0001,Withdraw,130000.0
+0001,Transfer,4000.0
+0002,Received,4000.0
